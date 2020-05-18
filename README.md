@@ -1,4 +1,4 @@
-# examples-LocalStorage
+# LocalStorage
 LocalStorage örnek çalışma
 
 LocalStorage bölümüne inputlar ile value,key girme.
